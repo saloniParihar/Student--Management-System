@@ -1,0 +1,45 @@
+🎯 Student Management System (Console-Based)
+
+A simple C++ console application that allows an educational institution to store, view, update, and delete student records.
+
+⚙️ Features
+
+✅ Add a new student (Roll Number, Name, Grade, Course)
+✅ View all students
+✅ Update student’s grade or course
+✅ Delete a student by Roll Number
+✅ Displays Pass/Fail based on grade
+✅ Handles invalid input gracefully
+
+🧱 How to Run
+1. Compile
+g++ student_management.cpp -o student_management
+
+2. Run
+./student_management
+
+3. Menu Options
+1. Add Student  
+2. View Students  
+3. Update Student  
+4. Delete Student  
+5. Exit
+
+🧩 Example Usage
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+
+Enter Roll Number: 101
+Enter Name: John Doe
+Enter Grade (0-100): 85
+Enter Course: Computer Science
+Student added successfully!
+
+👨‍💻 Author
+Name = saloniParihar
+saloniparihar188@gmail.com
